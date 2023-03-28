@@ -1,1 +1,1 @@
-# Wipro-NBA
+# NBA project
